@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nativewind": "^4.1.23"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.72.8"
+  }
+}
