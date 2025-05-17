@@ -3,6 +3,12 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { RootStackParamList } from './src/types/restaurant';
 import RestaurantListScreen from './src/screens/RestaurantListScreen';
 import RestaurantDetailScreen from './src/screens/RestaurantDetailScreen';
+import { Platform } from 'react-native';
+import { enableScreens } from 'react-native-screens';
+
+if (Platform.OS !== 'web') {
+  enableScreens();
+}
 
 const Stack = createNativeStackNavigator<RootStackParamList>(); 
 

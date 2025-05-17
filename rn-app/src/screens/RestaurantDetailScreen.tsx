@@ -49,7 +49,7 @@ export default function RestaurantDetailScreen({ route, navigation } : Props) {
           <Text style={{ lineHeight: 20 }}>{restaurant.description}</Text>
 
           <View style={{ marginTop: 24 }}>
-            <Button mode="contained" onPress={() => setOpen(true)}>
+            <Button mode="contained" onPress={() => setOpen(true)} buttonColor='#'>
               Make a Booking
             </Button>
 

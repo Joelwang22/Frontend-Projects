@@ -1,0 +1,759 @@
+{
+  "places": [
+    {
+      "id": "ChIJA5LATO4Z2jER111V-v6abAI",
+      "formattedAddress": "10 Bayfront Ave, Singapore 018956",
+      "rating": 4.7,
+      "displayName": {
+        "text": "Marina Bay Sands Singapore",
+        "languageCode": "en"
+      },
+      "photos": [
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNTKNc6dKfQufqnKw2iDyEjd_5pVj1s_UIL963tLq0Z1-PgyM6UZh003WbOg4-YEpJnDzrLHcLgG9dwxhwDAKvG44XvMCQF8IPkur-PPhJ6SAc65Gh7SFR3U540nc-bHkTKyB3Kmy-f1qUhl3gKXj5rU912DjOlMKniOqklpFfJbGVGstkDJ0_8wHhm1UxQvKmPinITYISRuP2VNZ29U5yP5ByCbQ2fDCPv8RrQwp6LcbufIcs0AyDC2uC0tf93IRX_jxVV7yKvk2Fb4RDeAZBNg3Tw0lR73i1JodDvQZLKLQQ",
+          "widthPx": 4800,
+          "heightPx": 3193,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMvB4qv5_KmieAh8aqqD8dKcrcv8poF8bhcE2R5&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMvB4qv5_KmieAh8aqqD8dKcrcv8poF8bhcE2R5!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNRUxJZxr-tS9EBqEoyua4kcVJ_D2ShBZOqaPJiI61eT5T7e25lKIhWfedGPfuEIypHfSxtx3OVwC8iJdf9-_d9qqSIDwy9ZZcdWs0eb-g18wk8JI12sezptTU2CspZtbCKAn2cvlBb4HPBbvIJecyDopv-JbwZuhUzDTH2ZhaiwvDf8a5_zbgfv5at8813V9dX02lnYCwbQIhHxlIIXMac6RqSOSejK9EMXyhEaiRpkbGHmgG0LLin2MFh-k0V4dZWQpuIgXmUefardYLAgZI_NeH0t8as9kc6JjoOOJkuOzChhIBgHe3BmSletVREKWDEfxQnNA-wztpI4lHYQ0hgM6KSa8j_JY2l2lcuufmqfuAN-9asGGt9YRTLfcElRIDU38Fg1CnqZe32PSnfW5k293HckTPROcf0KQMcsM7isew",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Simon Lam",
+              "uri": "https://maps.google.com/maps/contrib/117282630742236137960",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSi1-azPuqZzY4-zWw8r__pIjcbHrNPUuxEjQGuA_BCEhXbQ-s=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDa2aP0fg&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa2aP0fg!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNStLQs2I1IgZtftDkFxjTfpXVJeST8zTpBBTGwBEd7fUlq8CXuRul7kF__l_ZOdjPU9CN4dJOfUCc1DTbqGHNmsULHTxQTNWC9TNHi7XNHMJ-lrunXOPSEm5Ts0HUqiv4rKZ7MDBqdy8Oip_S4zkvaV1hGLsFeuzRDV36snjV05-uKtlLMnkLU3Xx9bwf8eCJ7ZacvWhGyx7PdzyodLV7pTGRIMqPdyX6iRTIoUFlxkOxvGX9kYiiyN_XYx9R7j4PnBiYylf_kv0chXqoYgx07AJprJ8CZpXgeCCOFZ5_Ac0jRAbnpGeyJTwzPl8LgWHDlJz15CgiJiC42o3WkrbJslVt6tZhqfRDxCSxwo7z4kk4yPhMPP3wqRzBOTpyvIvvMF0vVA6g-ORGIzV1d0ukzGL6WHBWQ8eNpPaVlDA0XS8YM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Lee Iris",
+              "uri": "https://maps.google.com/maps/contrib/106204654794528553229",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1osyc2bVnH7HxxyVypGkw1kifAOkaLainmm8BjkGBtNyJpyRG4g=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGyaDh-wE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGyaDh-wE!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNSqNGHPK9hIbBdddYZWJoauFdNvqbBdaekorlVFSOafhHCj7kw7aI7eKzCB40csLEhM8sw0vJTQml15qDGgA5dVC2WYhqoPh1VH8fVPSvkjQ0megnX_b5RdURPuk5LwyswaSZUVk9dVaPTPoGuPpLylgWVv-yeV9riEpMmLiS_ZmcMD5dvperrZYMtHCvqBqXg0noOgEOWR8WoRkNgMjDsO-1GmY0DR1TyZksjL603kwvOKyXtWTUZufyWiMoX-p2FODOOt-w70ByeZ0sFCK122HYq-0uvWDdJ7XlHA6sDX4A",
+          "widthPx": 1772,
+          "heightPx": 1181,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmaLijLtEVDzFC-_bI3sTX5hBWNRTHhUrA4_ti&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmaLijLtEVDzFC-_bI3sTX5hBWNRTHhUrA4_ti!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNRG5FaEtg1ye7qZ5QUcB91V5HB5hfAn7QWYyl6gdWmt0qn5oD2ED2DRDy0DZVMz7b4j4TC2eOdfqEmtDqX0hX4T7s0F0VR6iuCd5tK1IqXs9oR9Eqav7vKvRQvyRytmc69jZTvfEd3eLAB-J5mjge3a01vCLIHvoF5hdC7HKUBcPaqP_DosVZU6pxP283wcxstUDY2cfUSNTcZYPJ85XWVcJxSkUMEN-Uf_4eohrfqaknv3JKMi_1VBA-4I458A23uuR3ytWzMKg0BNRckvNLteirSfKvcWA_bYjWu7E0ZgkQ",
+          "widthPx": 2400,
+          "heightPx": 1622,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPbuWV24C0HOs9JtbUsdzwrxTv8xtBd0hEqW1NS&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbuWV24C0HOs9JtbUsdzwrxTv8xtBd0hEqW1NS!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNTE6rHv_hp8bXiJKmvftiXHThv5DYijrKmmrzl0f6UTRmCw8QJANpfXqQXhjr4xi1k0n86uQU60JgdVr0opUXWjG-764PxbR8LACF5D_1LP860dVemyCQf-YeVQb89mwZaTHVg5IPfTQRytY3x_-2Xc0xsQDBAIVZuNpbllVPnpdnWQysDLflCTOeM-nW6AuyLhrKIG7arhjLS0LOIE2YW_5WnPdTJJxyAyQVh1_X5fE_RmlfK1ZrEVFKHMGxHkRSk72XchKE5_XBmGRbNmpQM6l3uNTTn9xVibac5GKKNDCg",
+          "widthPx": 4800,
+          "heightPx": 2690,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPIb5yCEtTq8KOOx9oU2UP7ML7B5Sh2ZAi2P2KC&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPIb5yCEtTq8KOOx9oU2UP7ML7B5Sh2ZAi2P2KC!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNSFxznwz-iJmacg5pqtahElKjO2WKJYLvVdpM9_CUK2kkXDtEfD6kXFONa6Ts50hfZfgxo4OokorxjqaQuueb7gerv7HGGA3SUhuVoF70Q1VAUAGlKm3rH8ZYFhbhUjEpvZbQRuyESm989qobMStZqiUfL4P-o1VJX-4NUc6adNWlpwSptSFIB0DEdZpQ-Ajoiv3WHOBlyjhQO6hQPeoeB3GoRruvDUTQwseO7-ihL9-q54AH_GrtLTP9axyOCYp-2wU6RaNO4s5iszTLZhny-n3YC00PuXUQcfsQfpU2Utfw",
+          "widthPx": 4800,
+          "heightPx": 3600,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMZD68NcGZ3vOjFZTHb3rCUNbEF9Wlpml4lnuf3&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZD68NcGZ3vOjFZTHb3rCUNbEF9Wlpml4lnuf3!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNSEF3SZ3uZHkb_P4T8CDmvv0WkIfLwdF3qIUiU99k8PgPhztk0C1FUGv77oZaBRzSEoJyvAgfJKLwbcCbA4p1tB_hFZmZboE9uXq8XAvG0rsT4y0WYQWrwtpFsThkHc6EXDcntIH0fI8qOwJB5mIK1xdyxushR9Hvn7T1lIV0n9q_DEQqX3TGiTMdIcL7X_CZ7iA8JkWFTJPVXr33nhGGqInjSoK_JlhJJq35N_mArikbJ6t9r1Y6lYSJjtjXzuDSUTjRhKj7IvwsdcBwfBH3QbG-Rds5VJt5Ly51cSCTDjmg",
+          "widthPx": 4800,
+          "heightPx": 3200,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMEvOYCR3MdSQf0BXLX9zBt9vnceEGuVnwb-7V-&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMEvOYCR3MdSQf0BXLX9zBt9vnceEGuVnwb-7V-!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNQ3pf_QFRi-E_KXJuYTwW-xrzNhoUM_tnkfGAeK2QBImx8_hmpX4LI3sLnJGX1_pi_0WOtER8H5osUOarYrJb2bmFOzhMNxergPniQXMmkymJ7I8gc4lrfw6kcrCxowGnmqZXep4her-kidx5lqlyKXmupiypNkjtNoV7DJMiRK0LTmdoeCkH6sPxB24qX9oNv7WPhwg0M_5TDVamPoSgmBTwBO4zO8cehgeAGrqSnN3za6OFgLdsjjkHfEBqzF8ujjvbWmQ3eyFD8DVkyse48gF-cm42ZGqFM78RnLevEQTA",
+          "widthPx": 4800,
+          "heightPx": 3210,
+          "authorAttributions": [
+            {
+              "displayName": "Marina Bay Sands Singapore",
+              "uri": "https://maps.google.com/maps/contrib/109895659147477395527",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3dTreT0dA2HPsYLLA3HchMASd3Hu21Vchre_fmHEWWL0rC6V=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNnxmvKwgZYWg4-G6pxAPBvQc0TwiASOx1c4lB3&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnxmvKwgZYWg4-G6pxAPBvQc0TwiASOx1c4lB3!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        },
+        {
+          "name": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AXQCQNRTlXvluEA7JqAyyGddw1-GzWJMu4bG7e2aMlGhnYAfc6kCDYnuqDKvpKzVEgcbG7uFY4ANk9EaZz4ZDwLhGKlWzAYNSQ7SxjKgAQpsoX35_9gUvSTltKvbPoVIPhclGuOKkedxqQBquHSgZlthSXhB-ODuXQDT7dAVBe1rxe_QCXCRG8L1S67F3VJ-up9t0jPvsk7Rjd2N1oIhUzrh13HL4rEUW4uHVVDhabVig1BCrOH5V7fnADrBJG7MhxKPIo5ahcFH94YLzmTguN2R5OB_18CuS-GrFalGImAbNs4GwUKkDT1uOdINoikG16EBc9alsWgQU20rPsZWzEXzrpmGSltJR327R4ym4EBF2iBKjI8yosSFDwR1KdMzFjLTXUhi7BWa0_7dtjrPVyl_EY_oM_8S9aYt4zhrrbJTgvRdDGUs",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Markus S.",
+              "uri": "https://maps.google.com/maps/contrib/114346350949920856964",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzEM2KKZuxc-wazCtK-T0ToWM7fOb7-h8Rzjxna-5wg0D33tI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcga-HuAE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcga-HuAE!2e10!4m2!3m1!1s0x31da19ee4cc09203:0x26c9afefa555dd7"
+        }
+      ]
+    },
+    {
+      "id": "ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0",
+      "formattedAddress": "18 Raffles Quay, Singapore 048582",
+      "rating": 4.4,
+      "displayName": {
+        "text": "Lau Pa Sat",
+        "languageCode": "en"
+      },
+      "photos": [
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNQgb0dQCyTS-0LvZi8zxFM5W9MKzP_A13WLR03l1I2q8nYYOb1SaX_pvKPdN9xMhwC5zmul794p9PTJkHvOjK04GFWSgdyS5AgJxSMmdXKcJjpvwKzXQC2oXy0svVZ7SSMfM0FEQoQM5g2vBdAeBw9Pr8FFA_KPnEnD1xsHWTSTaMvoCOO8nqPUDAEpqVb_io0J72Rh8QsI2dYS3yDwLQrIvSbvHu7dxoEO8yV6jHC9uEEUs-qHoJwfXmw6frSStqWTVWyyerUmkieDPf8VTZTINYb4OSqZqBr9p3HMUTOHow8cNF-KaVGY-Qajo6wi48z9FB-EdJGWs5PgKPqOkFgblxvMaQRlKgcNY2iWaGVtYOdrgJNe6yAmWt3rPFkBpG8ZBmggWfaLI65d1xskTcXStzJJ4ZvynXAwT6zh8pg",
+          "widthPx": 4800,
+          "heightPx": 3069,
+          "authorAttributions": [
+            {
+              "displayName": "Vincent Khoo",
+              "uri": "https://maps.google.com/maps/contrib/109845981260181580873",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn98slyAk7raliUAoWO-u4eTlMV00nW1RCH_-GpZHxhmIPZdnewg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDahNjBNw&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDahNjBNw!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNRjzi2A3CS2OIs5rnToyuVW25gFz1FVaSIX4a6Z9QF6vL80srClCO5PCy3bkppaBg6OtPd32QPnJ5-J54m7eZ4gfzAwxGxWNj57BxdQwi6PIO38OL5xddDq0m_DUB4_DElpfyq1Xujf4Whcujz4yHpscm9zQxPl7PYLKw6gpftGilAeBsDXetN3L9e7XxJHYaLELoaDiLa0dg4o3SkPm30RGpkEDhz3_m3g9RXZrTnA2lhHKzHYGcwv3jrYxITj5FavhBr9Dp2hB16PTCVYzkTk8TGFWd59Go5RvTTl5kGpGTUp2muipJscbKV66sdc1w6zDf3MBmj58AxgdKyDwqC7NZCnZp6uU16_kTxUly4GfFmeOPP72TkkJanREA6kpIRfbqHFCkrJTQPGiyb0pqN1heMdMjcvZy_AAWVqYiqx8Fuw-Kb9udShCbTdRaSF",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "真宗門徒",
+              "uri": "https://maps.google.com/maps/contrib/117856838185768349348",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVR3wYFKnyEtN57Av3PGc1vmOAw_9MmrFx17wmAOFR9FzAJCxsA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqQSdmOmgPXecABpRM&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqQSdmOmgPXecABpRM!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNSa-sY2VpxLw4xdheR-K2TlAmxs2V9zIrqpKWo0lF7D3gRivKdTc-kNCrlx7oRJs_EyrLvM93-wTchZYhlmsd79ebskhgMLh7xODBOr7TXn39X5sU79c-1JpHDiTLjagEIB7ApnMWcI7rpaxDV4l-U_IRbYiS4gl4_UGbNWQFY3lkAVqtcrcoZcy12VSLAcbG8u4QsH11m_NdqFMxmTmgf4b_tlZgPYd3FH1E_ituk2Db267X6ZXvei-etEtxrILVN6dgylEQnSfyY7G-oTQiqoTnhCpyj3aVdw_zE2Ily2Xg",
+          "widthPx": 4734,
+          "heightPx": 4800,
+          "authorAttributions": [
+            {
+              "displayName": "Lau Pa Sat",
+              "uri": "https://maps.google.com/maps/contrib/104454905954885374149",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiwUNoC0Lgc3o7kdIunKcGURxwlljU8T-tnYc6O2VpuUXb76g=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP61huXQ-7xn5Q7BSFE7wTyiLMfj_ymLJ1cavAv&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP61huXQ-7xn5Q7BSFE7wTyiLMfj_ymLJ1cavAv!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNQLzXpqq8tRhzdlXGFmF0OuWPY_leGCfvCWWs3uq99cNq5qs1mcQFG1zPOP5nhNMvsXwSnB8JESixmTvPFt8yhumvc9U9KydweCkfR2P0BbYJB_UzVD-N7pPawaDLippYy4NG_EhfPrsPW-CBjdP5U4y_SLFRwjNMb4yP0CZ-K2Ge8O8B93Q_3e6V36a3Tbb4S3xHKf8EkyMXe1kXWbZkqgzGbG7Gr73LVZLeB83z7MEQyu5IqJoeLqf86JWWXUkr4sjMMKJX_CFAqMZ3XlSI4oCEpRV9e2GfRLW_VAoR9dVNdd_zfeed1owJPcizrvNBXNp9YijcsVNTf_RqRDE16DO44mBMaAp774r9gkQZklfZ29f3LE-_p5xIIjfQur8WfcrNtcb67W9RbXp7TvK93QYTGt1WE1IEIiMKygeDoQUQ",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Fernando López Fernández",
+              "uri": "https://maps.google.com/maps/contrib/102614218190877140146",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZGzM4klGoOelGnsKx7UTCgvGVqOHK1E9s7JKwTBh8MZSnNM7lrQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDngpDnRQ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDngpDnRQ!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNQQzmGATYBcJCkFOPWYtbmDg4xfOODR1AkEYlVikl9nCPVY-VZuhwJ8mmJCagzpwwpu2vTmFmZBUPPZgEMjMogb8iaNfuvcrJ2kzVnZjjeb-VnU8M6ezb2o8NsV8-M5isDawe6Nv35XlP0lrTjx-f3EWoiGfgknfWNe8TmkMu5JzZwtzsEQaGDyVeUJAKyYzpY5abaOT3L0dQSCwlP0VO4E5dcoDouJcbBKasoLzURbxUFkn_XicoDNZBxMlDQPXZaBur2y67zsgze9VRlsG8qDJrPujX5NzAXCnOPe1R18bxJame4LJLtYzFOI4AkssY8dqx5GwMvWIiFXhKi8LnhPViLyY0jOfTVTEbEnQDQ1W6nxOJbYxj3WY2BctF_Os56YoYHtx62c5zoLL5X7Uxw4cQu-TK_vT1MGJkiIxOqrsysi",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Peter Chang",
+              "uri": "https://maps.google.com/maps/contrib/116560561070926182447",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTDU5R561S-6UWwiypj7wSnANISogl6RZv5Pp1_9irV7j2AtgB=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCYpO_C5QE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCYpO_C5QE!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNScOAsCAaVaOjId5ghkS7PYKuqRYggnF0mOhPELh80j0WcKjdY7pmWBPds93JjTeE__yhF89uwZaU98tzgizUywGgvKy3CjdBojogE08cXvPQOuKqnODqOVBwaC1ez14qzA802TzRb1y5s0q9PNsZbT6BRPs1fKRKhBfFoZfGUZF6EZKqVFR752Lhso8r5dkKFDerWNpN2KeOvMsyEnnCG8TJMUBXTn0z7svDZdlZt_JQ3ncY8xm4b2ss0_xDVsdWaP9aUEwH76ljDqRQc7Hiz4RzwTd-MS_d7ZYeIoIE8HAzrhgZOa5ow7dcYQaLp-cyH-cWIwijUAaDIKKT7jRw5thw-0A4iZcZI_Oqv5Lc0zDmDfBoW_XBfk5Nsm8dPtfMvDwlgQ7IpxNAHMuWh7jzrm9uXSoDz0SQqnUu4ONl-M6KFe",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "kiyo oto",
+              "uri": "https://maps.google.com/maps/contrib/116167439870610130679",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpjv5DbI32qJ2bC_PS6HPy-yYHJdakImwrJTjcEM17vSEOJU1-kg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_6J-WmgE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_6J-WmgE!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNS5Ksjj035NImXPCl6onaUHlY6aNi3DQDVxRHKtxe45_KTs1JT7o3ikyRSYixfY3wb3h1LeIncI6wseWUz2AR54dnlQTJlFOHxHejnJRkAu9DUJd3MgKSqmE0MkfkuCwgOM1UPaGVAoIL-TZrWGl7YC6hKjdaxH-I1uEvFveOHUBhdXwx-s1B02GBqnPknHC9Z0_5TPYWTlCU1H4h5CK_5gQYaC6IYYRZEsYRL1pfL0PgTdhlrTqcDejIQOjIKSdfgvLUddkn34aTyZsM5BgFxY6DutIu2SS0qr8_WcZKXTC2Vb8kOdaw1CoGXKaW1uLb8Gkn8nzWRCEPt0nfTvgac1M4MftGbZ96r_MUKOAxm1VuNwmdnIBfLPVKLmFt59mB8KRLTQRs3eCequZ8SJcDXz5EKWlFusG2DPklaMOCXBfwQQ",
+          "widthPx": 4800,
+          "heightPx": 3600,
+          "authorAttributions": [
+            {
+              "displayName": "Cho Younmyoung",
+              "uri": "https://maps.google.com/maps/contrib/103715494358488251910",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwEMaWKFNSZwflbiffVtzgka-5febZFAmLfFKiR-GqRE9ZyQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID74IvzoQE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID74IvzoQE!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNTkX3jqdGNNhMrWxEzHOsB0ez_2qSjSb7WqPmN3ycNKi5zb-Q43HC2_egmVuwd7KShL_HuDfIh68dLyiv84CnM-pq9ZQMH2ky_zKvuDW_SR7y3BV8SuxtNrWIZa5mSuoukp3UxQSYeHV9MNtVn3ofkANXWJD7giJ3uussSoxz1FXDGzqrNnGnsv1dmqF-fukQxRjeQ9cIPyskG8YxjANrnKQHMzsmmmw6qD2jA-vIHo8rI8TtLuqjLKccNKmoEKIPI8G3B2yN-zs3J1uQ_jcB71JRv1L6f2AWkjCDh7_GPA7upTrI6r0edMDBHHwIvUPX3MHJN3xXgyxGqZ8BuZ-rpDIosk6DTuumaY3CtDx0cX-5PT8sgidT9fWDQZv4lsnACYY8MHUiW2ZJyxxZEEfAJ7gPlIQnzHJmLJQTk6F3YCIZw6",
+          "widthPx": 4800,
+          "heightPx": 3600,
+          "authorAttributions": [
+            {
+              "displayName": "JK",
+              "uri": "https://maps.google.com/maps/contrib/115411089177999572685",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgwfRhkFT8_t8-NszTGyDQyfCeBk_A63scP75l8UoX8JOasg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA07CNjAE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA07CNjAE!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNRSCrrVp8YlVKpt-oEgM-nDNZ0OlqAE-35kkTJiLZIV61aMspEIEdsGKTbCbye2iHaoOv-F7P6S-HVWQnVwzZKGtvDaI2DiYeVSQ2enNtROjs7QNl6HJjuX-onCgS9xFppPoWocnX0p6CFM1HHKwWRqDZgEXKMhn3InzgQnmfu2V2F2P7CX_QA-9rMdwvSgoTn-edWXWJ7zgzT4u9uazQY8KXKBMwfUybJpnO8bqZtZXS0ByGH9gPE1rid4Uog1yWmr2K-Tx8UNX2LaUMOVmhVhbcDeX2-FAX34ubjeLDP6mHUns4AVny6e7FZDC3YG9VyhMBNmFKss4Zp2puKTFDf53gwuWuKEM3tjXVQYeuJ3SV_EhzLYx1ZCkkYFR98BMMLsBqECyHoqvQtj-xZvW3hoOHY6p9JhUrKZ3gDdRqA",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Susan Cheah",
+              "uri": "https://maps.google.com/maps/contrib/113529676617865052969",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPoN9ssdIDSvSLbCBtEfO0XrdFsBr9bvBMk9ZoYPPhBsc47xMNXg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-wL_TGg&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-wL_TGg!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        },
+        {
+          "name": "places/ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0/photos/AXQCQNREk1etbdZz9W7uJZAgYU86zz7jvaFZqVGg_4Tgo6_tl-4HeRKrUFUas8VGUp1kGCBGlPy932uZ5-x5DqqqWP0bZCwVLT9y9XJv3fyrVqJREVvWGZR_h6FFkCaKoklq9uxVd7YNrA3l96UnDr6CRRe8YeZbrsAb6hl0Srm8KybGPsio1PIWSNJUgGCFU63KG3lTsBvkao11j3efg9iZ3cd9DRhYSv-_Qcj9nhlIDPfPB_--LgQlUuk4hIZMieTFgEDm6PsTR4_jB9NkNO3NT9EQOvMvD9gNic2OLYPl44uqGdADmfSRjBnhnqRaEHgk5Wd99xizq-6GB7JK2UKCsuMJ-kEZ54x4wVyUVT1qvReasBXX0hlEjGSCmA53ip6_AaGfof5y-tDHeOQ4eG9hCPIQwMsFKjBoCyb7lQi-WyttLQo",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "黃詠宸",
+              "uri": "https://maps.google.com/maps/contrib/111978620193323061951",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpiSF4McpbU-jh3xqUQPdEdGxjqJyEmvbPPb-rJbwRu5hdFSu8Iw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgjqDioQE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgjqDioQE!2e10!4m2!3m1!1s0x31da190de1a58ee5:0xfdead3880c0abd60"
+        }
+      ]
+    },
+    {
+      "id": "ChIJseQsTQ0Z2jERqpBTWF0Zf84",
+      "formattedAddress": "1 Kadayanallur St, Singapore 069184",
+      "rating": 4.4,
+      "displayName": {
+        "text": "Maxwell Food Centre",
+        "languageCode": "en"
+      },
+      "photos": [
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNQr5tXyZzWhD2TK097fnuprDIOecPaN12nCSSqv1VIbx5jBkJ0asYNjNBNjnjDlpll5BkAzs_-0EyBkeNOaJDitR9w_GZEyS0ftslDn3SxbdSC2MjWukSdP7saBv2EGAOGyWa1IRaquKyqOu7qA1h0OcojnIVdfhpwqO0zX9CdJIudO4BLrXIZu4-7jkxZv4KavfS64ZZ-BLZAaf6uAHu2-u76E_J_pVHaNy_361ai8Mr8m7fSJ0OFp5RJf9QQPSKAJsM-35VCqB0TA3YnDI2yY3-0HRuyNaaGHy7Z2j8kxZ_vPHgrPWfUq3uWF4IluCqdYqUnjL_LkXmNa4qvHn6rh-deDV4d0j1A1Bzbv0Am9dBfInNSOqhTDXqka0dtextLR5YhhBBINvWAh0JyL1VJN-jNjkV__qSSslk5YKbVBI3Ep",
+          "widthPx": 4000,
+          "heightPx": 1848,
+          "authorAttributions": [
+            {
+              "displayName": "_ J",
+              "uri": "https://maps.google.com/maps/contrib/110619475089145781307",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRoDOCnTdLaWANxqbfqxYVzItwIW_vBoliy8cdM0GiV9X9hA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2qMT1kQE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2qMT1kQE!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNS608Awd7BlYE6IOtb8-6H4OgknCAnVG7ZP6l79Z1eJYDa2KZOdcceFoZ8ucMZPg9nWEoeTS5s03DdwM2oCj7KB4uoA90BlSoO1-7U-yx3FPmuXh8o-VncMg12TUvXi7LhYJnri5r1UGrnrWXleAx-Wp1pa_LPBfxyRN7Gn1Z0v_6beXPpOtRkAZmLlpIuQwNKcbVrgdqyRZDikQLqUdXX1kXzj8wLJrKIkRZB1QDPVraBy6gQoDNzh8gQmHp3udGVkTE4Au3g7VKeMe5ZwHgWvIWqikAMDO6Vdx2xEk6DROv-lGP8DrAmT_dROuzLTHUNV2r8J2xTbwjVgp4tvUt5gwtodGD1IwQoSMBxvpotXFdXheh1OeLJadz_9g7C-GnOLQapahfNRA1QkG6Jz4JSXwA29Nbg8iC7PyoYGsgf3Iis",
+          "widthPx": 3428,
+          "heightPx": 2552,
+          "authorAttributions": [
+            {
+              "displayName": "きょうこ“ちょこっと”おかめいんこ",
+              "uri": "https://maps.google.com/maps/contrib/112258042955770870072",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVAuTxyiwCx5t-HbooBvS8rK2hIsj8cqrj8bz4Np_iVtWLqq-O=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3purKiwE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3purKiwE!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNQsw4bx__dd_mngB-MWLd7wj3HrkGbWZggR3L9mC1CNAYYRrrFStb1WN05cZFTN2RQEI_bQn6q2wkB2E15TwbIohVQwl9zcYXe7owMfIEImDLDC55pw6FJaRKMn789zYo-ghVCbeMdzpnrEtQ-P9CnN6l4i1DDfUNzAth2T-5n2yrI0TyF6QPDZ6qR6bTjSJMhltbEFP6TAKhcVfT6t-UgQv5x8ik6A-Ehu0I_Z0Vt4NHR31pz5GGwmfdyJSGl5MQAkGMsI3FRZRyqFod6M6_n-TWpi3Ln2nbYqfFZ-pyfd3jOlggbQ2WZb9-9sey3Vb4t4L9Uqoxw8psiAPe4fcRNCxBksxtCgAfnCh5C3bGbs_nTu5ZVhcAaRLTqZNE0YIHP57nrtOA3hsajMTjL8gFR8L9oUB_NUdOsvtEGD4af-OljtBDL8x8SWQGnw3OlC",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Patrick Fun",
+              "uri": "https://maps.google.com/maps/contrib/102532626688375515499",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICPokQ1AvCBqpMkZiSHgFPyDe3wAwt5kQfegkj5_zqPQTXsFP4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAF6kBh4mS24Nb8jFBIaHDq&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAF6kBh4mS24Nb8jFBIaHDq!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNR2v971c82liHU5KTyFItGfe1OSSxPqz8gqpB5pspxAPUeo-j4LbH49l-oSRMnfDkQzk748WCk0EGfaOvJ0y4hZC0AGVGei664BkOx5HpIGKJ66AIqM_naUvoLGwZwWLd8BqHBwNh_rna9cabhFyLnFP_KYnrOikTDwNcei9yfjO6SM3sH9d0GU34HKwmAKqDHIQ47w_7wz-OI8xwmtb-mDeXIGNNDalXhhuXDQJJONW-4GAfy1s6VOdAAEG70Ox7YS1xzkN74Jtu599j-D6z3kRcgPUjE3-E56pgQvsX1pcUxqjNBw2ppPJoCHFJPrcposkIZ-P7A8ZidV7eQt2otHLjyQOZyVKhrHDhne-e2cesLxibFDH4DKcb-8eCRPqyITDD1i8y-POyqtssQEJfWS-zJLt_t10tdPEO6UdTsBkw",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Yu R",
+              "uri": "https://maps.google.com/maps/contrib/117794860150465110272",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJj8avyb2UupcdfN_YJqD5s-0R9H8fcdgOCya__OSlZykq9qEMs=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHzYrYFA&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHzYrYFA!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNReDk_5ZPJP8pouuH-NMbul541OtKR4rPxWyqo9kNW134rl19vWwzoTlu9ZcFG_8bqu14Q0LpCD0_Kokpe5TjG_2HTEMgSRP0RO1OncZ7EVjIF_22VDRAdaIOnaxOZOKVSRSU2_MkuLExNj-7thQXqGNI1GpZ9_BlkY1U0ElZumAzHG3uZt2ggWEvUWUobE_aj2wjTnr1gv6sBhCJOb4NdxdjSIJM0nb3EIKbJIUVubUDulBoRauU_x8UHHiucs7Zd74OejhzhMeum2_RjYD2g9nHLFLxo1PClU2l6Or2ZYtpRf5vPu6MY-Fq500OWmq6x3ucQCdqM29LfFMLzG1e9DXl6qG2e32pyVgvRBJgEyV7T6pcU6p8Qq8--o7sdW5drISYTA0yg8OmXnV3ZtNJYHGiFFfgL4Nre_wPUSyR0rVyXexsmKT9-69ErE0w",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Patrick Fun",
+              "uri": "https://maps.google.com/maps/contrib/102532626688375515499",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICPokQ1AvCBqpMkZiSHgFPyDe3wAwt5kQfegkj5_zqPQTXsFP4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBZj7LGOOZKn-UuW6Y-KCRZ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBZj7LGOOZKn-UuW6Y-KCRZ!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNQNBlj2Z36oWoVwdswqWV01KdFAJilVPcMdZUpZ8OGA1wR_UBxutkCdxEvwFAuyH1ehLaCZkdwELt2YrKLvVwjA3zp4KQrLaZ_Fota2cFMPpo3LV7oVduRJ6rmqeptaMQ0iJh35Onhxzik5VFC3Fz7NfBqAW1JDnt7MUS2-N7nDmQnt6h4RNs6UyaNws-esQwh2HRRggxR7I9VmxrXyRIjJ1_Q_-3KaUSelP3Q7vMh1k-GZ_cXxMFKJW3tHsfJl5Ot2DoWfiCQGLHBwwI95naLcYx1nfGMAW4ZGgjYf2R0yDmX9Z2XsK8vR2vP7QeKSPJ2jrdLuBYRCUib8y6CnC2ir9Rr9-klASJwuHptGivo2htZh-pJsxO3ngc2rNs0-dxRZYXiIs1RDou3k41poK1AA1g-oWNQEZVhRYLDy4dIjuA4WmHbePG7XEoC0Nlfk",
+          "widthPx": 4080,
+          "heightPx": 2295,
+          "authorAttributions": [
+            {
+              "displayName": "vin b",
+              "uri": "https://maps.google.com/maps/contrib/112196338142725766914",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzMPpflXhyCe2S5l9e_mySHtMHt6_cBNLDGLPxHPaI-FuSyQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQKxEJimfW7jQACtSq&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQKxEJimfW7jQACtSq!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNQ2trZkkX4xB125_IgjojnMJlKPKR0fg4W_Z9Gx6qKEg4JxbznPbXkhbHFmsU_MHwWhdfKE1yHVNhza9yu367mJ5db2cpOkZX_L2P0NV03O-FCmbYTEkATsr3rPJKCbO8SpZ0SRQRgHICi03rcesgGzJXglqz0NPUZ2UQPXlZyqfCQOyTTfa13El7SdSEIeRlRzUe0kop30T_TNduwanhCj3R1Ak8U6Zx0qoLYVAykbL7aPAceshLWNKOoEED0esbSDdP53OfmsCRTfsg01TmgwpnnZFbLcrCpBzOqn_XIenITUTha_sTE10Jv9Dw1oPbgERwlsi7HhFsReoKuOWuxEwoPKYe-R8dgVKUZZUcMJAl5-YM-ZX3SOs2fP3U-Dscvi_bgyr9io84iFgukVRuoUuT1iNy13H0i5d_8FHGM",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Wook Kim",
+              "uri": "https://maps.google.com/maps/contrib/101661604312838333251",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVg88vkOV1CGUbs5Scpmjr0-eYVBX-WS8PeUVStK4UU0PzI1d0FdA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC76sm5fw&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC76sm5fw!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNQUsZ_hY_Bu20kZrAnHxj1gCGVDmUqvj8H_nZq6A9mCY6Yf5H-go8bNxbpChIZjr562Mj1uKSflNmm2Mty-hmdNWVL2Cmv86VD7cD1IqUV9FFYkTrzRZoFsvx-8bH8IQ6WAEuqzrf8QawtZuBDxXnKLOQ6yb6huVPbriVteZ8OHF9Dw4nrI5rv6LPl_2fScnEih7u8bAfbEY0WGSEnKP4J96tEszgAwaPLEzhGGmdN1HNFXYnp_MZoZcfqkl2nZ6KWzI5vP_Nc5pcjVYjQuDYOGT6zGhi9u3hHc7yVZF39T0vugCt4dnR4HubZyY8syISXBImxYkuJMgUCBpiSYhunEu9_tOPEUJCiByNPK56KlpdYhhITWk-q15GsTAQZbSLMLLfr4SPX7qYopqcJUf_UZBKJjdT5FnL1esz2gCyBuGA",
+          "widthPx": 4800,
+          "heightPx": 3600,
+          "authorAttributions": [
+            {
+              "displayName": "Trusten Ng Rui Han",
+              "uri": "https://maps.google.com/maps/contrib/100085888841473705278",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc-kWD39MmFBM4FNuko4NZfbLpI0Ri_XbNxeSf9hxgKu5agfh-=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ-a6PAQ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ-a6PAQ!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNS3OC59bmdOPphRJqUBxGJZc6z5yTZDcgbnoQ08WzU9qm_oGw_hBJj2TwPDy6O_OOImNZjOBl1V3YQZHrLg4A7BWC1Y2d-js_02nqaZhLLUyPFWiLbsfGXtOQ_5H_vuJ02jFpBgk1nELDapiKtDcYvv05kFEroNONPU1SGgpAqW60-Vtz71Lp2SlYdGeCNtpKeVM3H3-FRrDsNKQ9FWtLuCBj4PqMNEs0WxNjQbLFC9I0SB13qMWYtQgWfB66dcOeNpHhVQlfnK_sluPE3V73_afWG_uJSVaT5sIrkIm2bkbizZhkoDqFKOLxjcAizNHaWwYp4wbHC3fe7n2JotlxO1nS2OhOx5bpoGFM26NMXKKISFsLkScSmHbB_wNOVY95v4ML8TicQ6sNGkeqfjAX3YZ2rXnqJuw4fGUB2hk9J_cA",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "yy smd",
+              "uri": "https://maps.google.com/maps/contrib/115351733555212464222",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZk1uSJwGT8aSDqp1_KQcbgQCC_e9VMgeFLwh7-YBhct3CvGM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEJ3WjrLT4cSgOQ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEJ3WjrLT4cSgOQ!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        },
+        {
+          "name": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AXQCQNSGSsoPCi6S0bQx17uXTIL3-3LTXuHwAYFh7mPXJrFGFiaOeAchmTmRjU3tGbCCadD5hN-eK1G54FGGrw6wiL4zbPRwT6yyAt7GX3PDZ-1emVhGNO7j8d4RaZC1CDggjE9xjb8UH687BEC2phOhs5O-N-Yqh4oPMSJ8SNDr4ADmVtY9Yg7nFce7384gzzAaVzFfWgxTid_IwxfzG2rzSdD1zIFSv4I10WsSC3qlBU9Jv8XXaMMrBZysSnnsWxLclXhjpd0U02g6xgn1g1MFGmTwVhYgnJ7g9l-oJ6wmjZa_rhN1bj1sUCHIqyXuK9qo4j9CG1Ke10DPEJlH7XyiMbvnqs5RhayL7Yt4snJCx6QWd-bGOV2PNNjasaANzZ15TIsdAMmr6TnY8vaXnIU0xL8LE8kFkz_5nMbNDBZnt7R9bg",
+          "widthPx": 4800,
+          "heightPx": 3200,
+          "authorAttributions": [
+            {
+              "displayName": "こんにちくわに'",
+              "uri": "https://maps.google.com/maps/contrib/106609070485892043088",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5DAzzndVOo7S6XwiW69W_Xcjw6IehjKNSPUnamXdbogcnawU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg3PCVRg&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg3PCVRg!2e10!4m2!3m1!1s0x31da190d4d2ce4b1:0xce7f195d585390aa"
+        }
+      ]
+    },
+    {
+      "id": "ChIJfyNkh6YZ2jERjHsd_P-iL_M",
+      "formattedAddress": "2 Stamford Rd, Singapore 178882",
+      "rating": 4.5,
+      "displayName": {
+        "text": "Swissôtel The Stamford Singapore",
+        "languageCode": "en"
+      },
+      "photos": [
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNS-ukZUIXdba2MebM3weW35ocq5qLx46IzvF5v8b4AihVtg6P6APSDi1H99YG0ks503AmdME9yZSMVF67hPwEHV2F7SjOcXhprwWx1Uf1qDA5UnpINlvk4k_qWlDmxRDgo-1AL3XxMmftBduh21ecLuq8EGFUX_J2Prk54XLIdDCANoLNYNCrJ1tn3owWy35gvLgoYksChgEAvtwG1IrwxjNYHDQS-PIv4-IArCsyNvaEWTckyc9ypPxCNeb0zG8-Y5CERMLsMTsJZC0pZ-ntBgc-FvIYv0j3p5WmKN1K7vag",
+          "widthPx": 2200,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Swissôtel The Stamford Singapore",
+              "uri": "https://maps.google.com/maps/contrib/100178196521780490154",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKr0qmwDv1SqTPnPVXpT7Qm6897A09vYBSKQrxLml9ZC3vv7m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOtCjTy7oVXBsbKGT8XRbhvmSajU3fN72BObzeu&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtCjTy7oVXBsbKGT8XRbhvmSajU3fN72BObzeu!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNQ_QGMIcJBTfJHx6QJIsMC7Oti6UJ-pwupvCiCn065FK3-8ih7Hh_mX73ixaxPfPNebhT4ND98q6X_DHtgFDb07aLASLebbrs3CgJF9-71li-pl2fAna4Jfr-iCUL0wUiuRh2jwbcLCpjd6_VPiLO1078Dzli19otx9P4DfrzdShnP37Kq0u_c8ZX_54ISgXvR1nyuS4UIcGG-K-8LSCRsHfUsqyeMDdtuJkElwvMEru33zQZmBOLVv8wI0KVWA8COEzc0H3RP_d7oFjOOwOoXa3dbX4RH01WEOgTyzIVS5pTL2xIDTkrpQQMdhOsHhTZ8M7xomcjyJIOaB0rhed2iUd9bLol1ZQg_V1uijkAUS2C3hwIvNmKd6M2n-zHFtAC7_cvs2p_FvtU4cHyeGGjAfjyUEmPEzUyx_LwGWhFRPbg",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Cho Son",
+              "uri": "https://maps.google.com/maps/contrib/113384010040307765824",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwXjsvcKyiiFmHN_3Jw-IkL2PYNMCrPlTYae_B6GwMj4ypDFpmjA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhxMjWdg&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhxMjWdg!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNRMMmT3kydnPsO_y5vzcG3UgJJgbx4jrIeVlLj5i03qprzjQCnchNnljumMxVTEDaYlsE-wiwXaFB_a8eV5qvM6Qwo1fLOL0JFciOXP75MH0RLDTVLGj6z87_lnTf8w-I02HJijNDGh2zB7FfhNnjPjWSwoqLnc5jRda_VE_JFSLK_mdar_ryTQAmU__22vqftQ4J2FqTUGcEAirCQmWNsJh4Bz0HL2_YqMkdwhTdYNvAyTNllFZxehmeD5PEkLGvItqF_sVbVUlTa4iy9uvFJmpwpjXzhSijaoujtEzR8p05N8HgscWFJFNvNLSDrtC76W5ayBY0eeppvZiKr6c5EtGYxY1fUm-N1OhJuEhuKYsQLJSQ5YV5kMchmztxRfGM-U8gUiMqTKMB0dGUv70TjiuVGLEFqhsnyZyThO2oQZqw",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "May Peh",
+              "uri": "https://maps.google.com/maps/contrib/113063590572933788331",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY3J50MDaikakJmmQdA9VynyGF60R7QlJzGtSXBJRkKnLoZSaKLg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOuoGFRw&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOuoGFRw!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNRNROvRoSwV729vlPfDI582ldEBVx0OvCQyDpLErQHspEde9qmutrsRy9UAbqFiupOI_mr98AhnvpFlBYj1TpWJXaCqe_E3JkKlgthDYfBQjwcZOtLhAPD_627nKUt1-mZ7a4PD1GDOIYS-sBNBYRyOVWNrYRXhiXqTlQAzK7E1aHCJey92N4rP3a75A2lqvQt1PyThF52OTE2StNIXFz3WOJSNBC1quTAGHVHSUyDFuKHMPA33oVgZ56GMhApRWKKcIV6TdjueNhgLNEomS7I7FBk-8opsE7CbaAC_6N4wQp5p_fL3Ku9jWiA-t6rXhlz-xg_bdFoiO_uqEAo21RAm5mS_9GTN8lNVUvzFt84vxidVPSm7H2RFc-QgUeY579X72nwWL9Lpw5rCiU2DunTQr7z_PxUE6Jf98962RsCn9X25",
+          "widthPx": 1024,
+          "heightPx": 600,
+          "authorAttributions": [
+            {
+              "displayName": "Punit Joshi",
+              "uri": "https://maps.google.com/maps/contrib/115851825048771252160",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMVm6zTw8B9-WOqkN3bIkZpC5nXx1yLbkliexahFmWT2ma5qcThA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0t-jb8wE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0t-jb8wE!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNSLWoAPqHmDLtAxe76dzozM_NseKy9qS-fsYTTOQnOmeVoDKTT-5LcHbaBymfGPE3NZPdYMvMrN0AjbwvtIcQfjSGsGVulPiZmSATSr10cz356tL3S-AQxuuvO1OjV6CFd29LvAQP6BIqp-A7-6tFEugSDXvEVDzQ9BWrr4qIXS5SSYtV5VMA16QOYCmiRxkXmkpxJownbU7ZHAK6rTXjEBr9U3HuP-i06Zc9U_tn2mkQrtgmn3Xck1_2gTba6mOs31rh2WQjRKF91uwOv779wunw0XnbAkWaQV9uaUMHTfjw",
+          "widthPx": 1600,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Swissôtel The Stamford Singapore",
+              "uri": "https://maps.google.com/maps/contrib/100178196521780490154",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKr0qmwDv1SqTPnPVXpT7Qm6897A09vYBSKQrxLml9ZC3vv7m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNN_xKjTXTVYUhY2NpzVpZs0rkYC-w1eQkEaN35&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNN_xKjTXTVYUhY2NpzVpZs0rkYC-w1eQkEaN35!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNRnm9lnQemira6HDqck6Qb1ftLnNBoSoKrPSl2A93vXWJQhtwcAJPC8bKTFFnKRVqOCno0UWeW_xISI12fxsU2ptWqiMXwThjKCUHDLITBTN4wUYAurDBQfu0vmtPuGl3MDCsrtjLvTTznm-Nu4fMKuNnYTLh4ByZ8LkM2iDIRZEZZiVJ1rSYN-6DGMq4X2D1dI0-jJPtzbtb5mwcB-Q2oKS_bge_c-BubXhAIzer727Z1qscT6UaT9i8RcBqHn9YbVLfHBJ3H4i77o8Q_jkH2X374pTqvhVWsmIqdyGXl7Pw",
+          "widthPx": 1024,
+          "heightPx": 768,
+          "authorAttributions": [
+            {
+              "displayName": "Swissôtel The Stamford Singapore",
+              "uri": "https://maps.google.com/maps/contrib/100178196521780490154",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKr0qmwDv1SqTPnPVXpT7Qm6897A09vYBSKQrxLml9ZC3vv7m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOfxKEhGU6eFM1d_qLUQTevBaWoBe_bLwlHEwMJ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOfxKEhGU6eFM1d_qLUQTevBaWoBe_bLwlHEwMJ!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNRv6NdjFBhuCi95w3IGyABfWYNHdIPGu0AUMh8joLluN9NOB8PQg3BGMI1QEedJIFjEK6Hdg2H72bsVnzJlPYKpoGuN6i-j6loJdZ-Uc5zFIktD2YgU62t9ZzxinqolVoPtd8PKT_IdM6IQX_XtZS7q-Yontni9KOAGkYRHxl_LrzEm0vXs3_F14mjuL3EOYYknMeBVWCJCyHdIbCEEY_jj-kiPHP4TpJ_kiLdmqdzVz7oJgh2jSl542Oh1MquRHDYtMv3GeL_Y59vOiY3MRgVbuEbnkxYAp4w8nswUbE-oWA",
+          "widthPx": 4800,
+          "heightPx": 3200,
+          "authorAttributions": [
+            {
+              "displayName": "Swissôtel The Stamford Singapore",
+              "uri": "https://maps.google.com/maps/contrib/100178196521780490154",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKr0qmwDv1SqTPnPVXpT7Qm6897A09vYBSKQrxLml9ZC3vv7m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP43GRxXm_2IwHfBuDip7FbWTNNL0jgAumRZ4WT&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP43GRxXm_2IwHfBuDip7FbWTNNL0jgAumRZ4WT!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNS9z8LAbQrIhHMI5BkV1jaQV6nOxabT8knuBN3I6fmIslpIJpqHiptkN6tDcWt_etfcnwcKj5jLiipDEimIjMtPmFvF6qWUnVvshgBLzqA-s0og25pOAV1ShFUsnaxl1hm8gjpOPPEAk7Ha9fU_rH-azl290Yqyyvb3G3bUssq0J4WobUIyqT7DbXVR9Fkb_T5oUyrb9Y_l8SV1VkBo7GV1es_ucC6QvxWcRpwo2ybt-nnE6jyj1lqr4X60xBmZf8pGFP4d3cj3sIPdYF4gawLxiCic3lP7i53bn9AEaJ8fwg",
+          "widthPx": 4800,
+          "heightPx": 3199,
+          "authorAttributions": [
+            {
+              "displayName": "Swissôtel The Stamford Singapore",
+              "uri": "https://maps.google.com/maps/contrib/100178196521780490154",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKr0qmwDv1SqTPnPVXpT7Qm6897A09vYBSKQrxLml9ZC3vv7m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOvoH4SAw-Q29MYRkLLeh7y7FlKMFC4TlBeoL_x&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOvoH4SAw-Q29MYRkLLeh7y7FlKMFC4TlBeoL_x!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNS2_19Xn-8TwBYd9I_l9WeQU4_XdrlGxgPb_C-FXs-sDW23r-ZbNUlipzsad_HPa1HMW6yqrbeF7LElmcIxa3gMUMnxdkGLOOea7_m9zKDBhNI34FfBQ9SRO-ZUnPSHV3PSFd-I-4RRgekA_NxbyeXo3c5EVU38GW_7DWhlHdIG4hcyk6rzJ4-O6DbD-HT3ARJJo_UXwMtBd9TT3YHf41FcjVHt67UKisYm3M_dJdU7Vjb-1xLuQx6cBc7WSjsbxCXSRNfDLHfnERqaqqDZBFPN9Noi1VOxP-zZgJXgM6jqdQ",
+          "widthPx": 1024,
+          "heightPx": 768,
+          "authorAttributions": [
+            {
+              "displayName": "Swissôtel The Stamford Singapore",
+              "uri": "https://maps.google.com/maps/contrib/100178196521780490154",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKr0qmwDv1SqTPnPVXpT7Qm6897A09vYBSKQrxLml9ZC3vv7m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxaZx89bw9zG7F2CA0-hKUbQdstvmXS9yNAyLt&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxaZx89bw9zG7F2CA0-hKUbQdstvmXS9yNAyLt!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        },
+        {
+          "name": "places/ChIJfyNkh6YZ2jERjHsd_P-iL_M/photos/AXQCQNRkzOHXVb1VdAUxIOTM8XjeSBYixm5s8B0D7J8EBLE-4Y81-PRT9zuBsMZgPblrPmJuknaLLjFxOe9iFeKN82MyqLlBqD51WS9Jg1Mu2due_Th_wvLEy7ENphRamMcazvhPBJxENlAFa7ZAc8SfHt5xcQbk3GcsOw-Wy66Bs2dxbc8-6AXAi0e0QhT9KJb6hBN7OiKRt2IKmBE9Ev_yJhpfcgAnCXjW9uo11CX728FToOJGPQltGg-6eECQnuXWP3lEAQUwaQy37INYMR2kq7_CnuevlAVk148P5R_99rpDQGIUXPkl8h6yzaM4_SK8hdKhPcWHBzyowhBPSBxEad1ENNQJP6UMssdDVhRXlW79kBQJTUu5hu4C3QLbl_gz_vC2SpE9Nqq-1ASFnNZ9up2N2a-9oeq0R2ebeQFvKD3E2gx1",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Jozie Roberts",
+              "uri": "https://maps.google.com/maps/contrib/118342946641529564672",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw8cjBMzNasOgvKeG88ErD5gDOnZ0UD87NYWXux5ryhKgeNWtE=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR4NmRmQE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR4NmRmQE!2e10!4m2!3m1!1s0x31da19a68764237f:0xf32fa2fffc1d7b8c"
+        }
+      ]
+    },
+    {
+      "id": "ChIJP1jDgAoZ2jER9XCcxNoXvcc",
+      "formattedAddress": "11 New Bridge Rd, #01-01, Singapore 059383",
+      "rating": 4.4,
+      "displayName": {
+        "text": "Song Fa Bak Kut Teh",
+        "languageCode": "en"
+      },
+      "photos": [
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNQLbwus-ogkVAWy05Ylm4xY5Om_39OQFGnfUjLkpZZbF331fm-kAe_GAxhCeeMv1YSAIJlpD4yutJv9ph51g3FBe0THbw1swQPm4h3nvYl8T4q1NJtP4qhR0dCcA54rar1ZKYdeQ30_le0wfseKM4-AmyLX_Qmj0McBwbjQ-fMEelPr6azGT4Gqx0kPPZSUbLB6iv37hwPrB3ZxYbR4KPl0UykNCghBPPSgrYONBRddR0s7MRDUetXEkXM_7NH0HjkN34gJXOibEnAlHm0yKL-gm4e6iOPKJ2S5zi0oOksjmw",
+          "widthPx": 1197,
+          "heightPx": 595,
+          "authorAttributions": [
+            {
+              "displayName": "Song Fa Bak Kut Teh",
+              "uri": "https://maps.google.com/maps/contrib/103155138653321045294",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV40RcG2Z3P2Qie7d5ujos4CHQBQEJE9I7hZCAmLi1LWfwXCTM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN74pr4r5h8nywRfe2Lo3isitbHV36kDI_B4VcE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN74pr4r5h8nywRfe2Lo3isitbHV36kDI_B4VcE!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNQt0o15huRCEVy3ESsY9E881eTFF7VhvFio55fC_BqE09QNsjYjhQS5y0FaIp2u6mbDXGl7nZwoqa6KmF4ntF8Wkg-E43hSlSrzlr1Xoq9KIT2vbE-OAogMZ8XjrzmHDVMjHSF23n8W2KcjkvMptkv-OC4rRoiSzAX9s7Zbt7Oc8hWOtGn03XaDlf9n71MyfjfHPi9gcsq6pQKg4ayGVXnkF4DL6ovIoSMaf5lIgze7vmgXvsv7cexJ89ZONH53BHzo1S-GCHoU2MaXB2Nyx_VuRGGx5mTdh_77oK7QAuc7SNkjIr5alhtiBotXUVX3AfXy6UpvEo-X2orl44wBBvlTUqxGo-XrH-dekVU7ZlH7axPJw9jMZPdSc-BE25AEPtp4qC_oAVJ8rhjiBTcP-0QY75iAVT6rKNLbdsJrodoKZQ",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Howie",
+              "uri": "https://maps.google.com/maps/contrib/108473924516541790427",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU88votueuc0ahiZFfElrov-Fi80fpCQwDKz4arxfvM2wp_PYK=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMComZujDw&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMComZujDw!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNSzqlyWn-kta0yvpK2aPGb8NONIw8paRrZQAjEiL-12lUaIt5YvGmzj_m1Z59a1L8GZNHUfeioqGlLRNTvKZ-97e9zOzqfxrSBrOrtSp5ON14l7KaqQDRj63282OeFTiejnB9aR_e1u_AMnzbrdEgO8KqNC9gZ9PuDeX6B_mWrkcQdQX-r73nFdTNRDL51TmZmo5hZzvNhTBy640289704lgBaK2uelPXsHuJsa_BNENvMF2Tcvj3x6cn4v_40-N0ik0tHZR7hKEJ_rLt8QWBPNVCIjQSiGmreQoeAnttu3Kw",
+          "widthPx": 1200,
+          "heightPx": 798,
+          "authorAttributions": [
+            {
+              "displayName": "Song Fa Bak Kut Teh 11 New Bridge Road",
+              "uri": "https://maps.google.com/maps/contrib/106362871060918624413",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDX5KtlUk-69fqlcPdiA8jQrhebBUdTDRRfEYC0r-voTAh2iSS=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOLw-nHGgzaNlV230FobDlTiWkFTx4sVLa_hDO_&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLw-nHGgzaNlV230FobDlTiWkFTx4sVLa_hDO_!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNQ-2jPnqVfkBnitG4guZfCbl8PckOW-UuTKcdCpo1Lsxr-qtzSRtvvwWKyeudo_SMDqdNy8k0aIGFuYoJz7DMABgBA-6OHY4Xd1v0QpOkZmU878CLOn-R54z96CFZgGBhB33YfhUEVayhfr-BGJdldffwELt0uMQiOFpbM8Ivx_28xQrwh8jBHaoZR9q4-0zsjeCQK8dGSggVtqFOwDYSEsyOwsf50_bkKVnr3ofer7aV0yh0ss2wJYTQC9btKTvr1B9IMTkQ5y_FwFRd4hZs_UNaXwEUVmnmG-NXPVHHsZAUvorb2--0JfUTfExYp6Iqg3Nxn6uxTIwaLgoY0-AvFaLZU-qZyEwDBflDTEU-xMdAmYFwTszDlPzv5uZ7KqExlouQSMYnBi8ZR_ipMfYXGPWg_PT817oyW_mwQdRXuvJ48",
+          "widthPx": 4000,
+          "heightPx": 2252,
+          "authorAttributions": [
+            {
+              "displayName": "DesigNah",
+              "uri": "https://maps.google.com/maps/contrib/114412394009787548585",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcbMcjNMgK4sQIfaQkrzhFXpR0ltqd9Ut_q3j5WUYAmUxlPrzA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEK3HwJKV2uOG3wE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEK3HwJKV2uOG3wE!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNS5pjGkntopMzz4SKh76OaMkDvmR2M7zKQWFLLNU_xqtV6qzRXkOdjM1Mk1poiTyNTPQXCrf1D--25WdsFzhWBWe2HTbz_7AOv03_z-0bwZ_JRaioYTroRU_diTuRsIwQaROXSvkum8Iab02xOxVJSIdjvOvgPtCa1A2VUh5nM0m4B9XDfZyPrM-i9v-uIEXzFqqAan36fDdoifT5N6o_zU9tJV4pIFamiTYDPu9rL9LBukNMD8rk4-KQC-bjpaIHycqbLD2CRZ07FfMoUJsAeVL9WtGnceZ7x7MIcXqPXNiEanFHm1eVI7QCP3S0RT0rMuFTTlUVxrtdEcq19hHWvFdpDQadFMMBkzAFHhfNn857CaEzFMQQhHlQEDAYhkwVjlWtiy0Tb23Tdthh_ZWW6gKusavwFzyzfEjYcBh0k",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Annie Chang",
+              "uri": "https://maps.google.com/maps/contrib/108829213029578135830",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdQ-qUTLN4AP6dcI-Q7f6bDOiERuCFtj3pl8VCmI8Xt7FZJA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEPOdk8iPwqjLDw&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPOdk8iPwqjLDw!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNThjTqcu_kXMHlmeh9b3sFIk9w_MhBh0JF1kbtrtUvm0Myrux8pCC63GH52Q3sO5pNXvMkEBRwYmvY3CuFtao_EesLMkV8bNww_i1mcmDl7BFGkqLY8zMLphQxxkGiWZvoyC7AYMlcGxdADjEhhoLn24gsO8iZfsyl8R_04c6uZWtBzqEmBxGfEr1a2bJQWxJaKZMgBV0RnIQOeHJY9AP7IJY-nCYxOu5sl2wozlaHAXlugAty_VC8cHq2Bzx8oQvML8jjsGBCI5RWEdltpLxwxzdGg2UKPd1OECiiqNlWvdxWtaA23we9T42bQLWVyyXr7wzsjcuEt3Pa8ssfFQ5joPlLCgsuDKi-CzAFmOLzIU_3EEsGgimewih2RAQXE0BTHQDvabE5WDtkNutHTit98IikuRNOApUiJCQ6LoExdMqg",
+          "widthPx": 2382,
+          "heightPx": 2382,
+          "authorAttributions": [
+            {
+              "displayName": "Han Michelle",
+              "uri": "https://maps.google.com/maps/contrib/104985007125414160915",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU05cl0iWkK5hMhSgsZ6F4RCKZhOHcHBAHW3ZNKTKQGTYToC2VB=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwlbT3mAE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwlbT3mAE!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNTh-6Wh3kpJSZGMM1KI7yYhpm0BuwaEAJDFw5O8CTZ1XuricMFLlKPmm-r5clO39LsbFhe3ouZmR2a7CL0XkZ-0V5BwXPLLBzamYY7xEbazRaao9Zc3kua1WNTxkEGkbwOAkHtAFn7M9S654kVksPs9q5Q2xVpe2exlFHJwHfTwjlSGfrlevZuzfEbG8EueJ1Y4RqiQ7WAh27ShHWuvNhF3l0jHLYZgQhUrBr7CoKOqZwPML3_Vg5GWB3OkatvUn8Tzbn-Xcm4NC10UWn1u7GPtFNk2NGRov404WfQtQP9FsqSj26a7mT5b5HoYE0u1l1mGJfTLr64b30iGRFL1F4WSYrwfzNc4WLsQ8-IcPeC2BC91VExsJkQIvAmdjP0YdcB8Wt1SVcO59j-RyhSC1T4VJFdVISpROd9713VPv3z5egJQ",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "ちゃんねるノスケ358",
+              "uri": "https://maps.google.com/maps/contrib/106829023290863589716",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ5Aoh5xuQ9YyKCu0T56iQsGTDr8plOR3um2AVHyzX0nrI9hL1XQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_4bLk7QE&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_4bLk7QE!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNTR8L0PcdshdaJqfPb-8C7C1xJP3BNLGbYI22OcuJMmrWebMre3roobMYTRU6CBhZNrBAUcO88i_2padjjTBUlkqmMzFgYiEW5nSZcBjrH7zwjE1vQuPTWo_LEBcqap9MLvMqTPRgtXgUsR6T0eYJ67YnYtD9p6uINK9PwFXLUJ_sPSo5UsfFqf0ZiNUilY1NikXVitV0hMoPKwHEKn7k2TkW1gz0ReViiV2mZJISe7XPJf9tbGknzPU0JkatZe9w_mtz8u_Lf9KSCyJSNweXYggSRjgTkDSy3XTeUEs2VMlJ45C_7Hv49aM21Z-jcUvIN8-lSocfKFKZLiPfGm39YDgcBm5L-vOLaSZTSYvpiXooEDf6NsaGrHZhV6E1YJiWHvoGYSnruR188f2W_O0h5zdxaJ06x8v5SJcPrImT9drA",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "まねきねこ",
+              "uri": "https://maps.google.com/maps/contrib/118425549309228209683",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6EjtVqifeyU5OZPf-H9jcedBQ8RCv5-_fQCNp3dCqCeGOjWCfOA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC73IrqdQ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC73IrqdQ!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNS695ZBnUV3w6aOxiEDiTQ_LoIsxe7IW8RQXelFIvHBkzEHYkwLjSOot6D7u6-3RC-8NcAYyOECbjYzX-vOLRzkEWg0YYCcqJKKJiTPrXXvgbNzZaOusBSPKnT6xSkUUk0NQq1rmZ-GtOYZ0qt0IrsO__BZVWrbyGSlKLIFKBYw7zV6UD_Dc-_VLCGI3-1wR4xTzjX3-sPyrp_WBana4qXzVdkFU1T7ifvEjhZXr5SdpzScKbX8P7wvoe_L0KnRxvq06EUu9ZXRRjmhClCpqQYfIjacS02vttpzj-50T_8KkxdsxqPcWlNEzgyQKvuA_QNQ-qVj0EoYr-n3gue4eVAsmUWeTxsz-6J7SHxgef0l9wvgQR1LUzwAAgDPwlgTnNcNbG2a5kXmpED-XAcKcnHVJ9gz1CeW3DGs6DMXn__8pg",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Kero Chan",
+              "uri": "https://maps.google.com/maps/contrib/114575475993419387137",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHAGegwoNXKjTit918lBORrh7j-yJ3qk4-SZuuPqqioykhdcq2=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDn-Z3UYQ&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn-Z3UYQ!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        },
+        {
+          "name": "places/ChIJP1jDgAoZ2jER9XCcxNoXvcc/photos/AXQCQNRqShJTdpAkSG_fhZ2ZnOcNU_VLMDsbg8BiL8VQ4Jr7OhP3oH8H-Hw_gpoV1IaF07q8VZyC_hSN1Ir5Y7qyWDRGgG07jYtEpuUm3wQ72buljmsdBWQyuWhuyYElg1DSKH6wBveF1_vx8WWaSUjQQ9OlIKdWpo1aqOxC3I3Wx0ziSnEbeeDfwJcO0SFhA--JSUBmwAQu4tiTaWc2DjYlVuWqcIHEO2GO_p05ZKFr14bWuIOESxmJOzGUXqKIpsGsygI9XUy4ggC06o6rMcVMun73gA8mC0vxlBDqRYWY96SjQZ1WS8CbRLd63grhvdFfm6T9mnBnrACCs41p7JgsB72ES5TNRqAbALadOZSJfSwXVS_gZrRAuy91oggY1Aw09lnaDtXuHU_05GsPbST10htljz_YuJAW2IYXb7ahjfw",
+          "widthPx": 3072,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "K Tan",
+              "uri": "https://maps.google.com/maps/contrib/105592887493237423833",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyP7OR0umslMlymV9dCFaY-ZzThVRDhU54qcjXxI66aOxQs_ZNqQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfs4TJFg&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfs4TJFg!2e10!4m2!3m1!1s0x31da190a80c3583f:0xc7bd17dac49c70f5"
+        }
+      ]
+    }
+  ]
+}

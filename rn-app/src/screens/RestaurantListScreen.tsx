@@ -1,10 +1,10 @@
 import React from 'react';
-import { FlatList, View, ActivityIndicator } from 'react-native';
+import { FlatList, View, ActivityIndicator, Alert } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../types/restaurant';
 import RestaurantCard from '../components/RestaurantCard';
-import { getRestaurants } from '../api/myApi';
 import { Restaurant } from '../types/restaurant';
+import { getNearbyRestaurants } from '../api/placesApi';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'List'>;
 
@@ -14,8 +14,16 @@ export default function RestaurantListScreen({ navigation }: Props) {
 
     React.useEffect(() => {
     (async () => {
-        setData(await getRestaurants());
+        try {
+        console.log('📡 calling Google Places…');
+        const list = await getNearbyRestaurants(1.2839, 103.8515);
+        console.log('✅ got', list.length, 'places');
+        setData(list);
+        } catch (err: any) {
+        console.error('❌ Places error', err?.response?.data || err.message);
+        Alert.alert('Places error', JSON.stringify(err?.response?.data ?? err.message));
         setLoading(false);
+        }
     })();
     }, []);
 
@@ -38,7 +46,7 @@ export default function RestaurantListScreen({ navigation }: Props) {
         <FlatList
             data={data}
             renderItem={renderItem}
-            keyExtractor={(r) => r.id.toString()}
+            keyExtractor={(r) => r.id}
             getItemLayout={(_, i) => ({ length: 92, offset: 92 * i, index: i })}
             contentContainerStyle={{ padding: 12 }}
         />
