@@ -1,10 +1,11 @@
 import { View, Text, Image, ScrollView, Button, Alert } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../types/restaurant';
+import { useNavigation } from '@react-navigation/native';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Detail'>;
 
-export default function RestaurantDetailScreen({ route }: Props) {
+export default function RestaurantDetailScreen({ route, navigation }: Props) {
     const { restaurant } = route.params;
     return (
     <ScrollView className="flex-1">
@@ -15,6 +16,7 @@ export default function RestaurantDetailScreen({ route }: Props) {
         <Text className="text-base leading-6">{restaurant.description}</Text>
         <View className="mt-6">
             <Button title="Order (mock)" onPress={() => Alert.alert('Pretend checkout')} />
+            <Button title="Back" onPress={() => navigation.goBack()} color={"#e10000"}/>
         </View>
         </View>
     </ScrollView>

@@ -1,16 +1,14 @@
 import axios from 'axios';
-
-export type Restaurant = {
-  id: number;
-  name: string;
-  description: string;
-  image: string;
-  rating: number;
-};
+import { Restaurant } from '../types/restaurant';
 
 export async function getRestaurants(): Promise<Restaurant[]> {
-  const { data } = await axios.get<Restaurant[]>(
-    'https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-APIs/main/menu.json'
-  );
-  return data;
+  const { data } = await axios.get('https://jsonplaceholder.typicode.com/users');
+
+  return data.map((u: any) => ({
+    id: u.id,
+    name: u.name,
+    description: u.company.catchPhrase,
+    image: `https://picsum.photos/seed/${u.id}/400/300`,
+    rating: Math.floor(Math.random() * 5) + 1,
+  }));
 }
