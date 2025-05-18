@@ -21,7 +21,11 @@ export default function RestaurantListScreen({ navigation }: Props) {
         setData(list);
         } catch (err: any) {
         console.error('❌ Places error', err?.response?.data || err.message);
-        Alert.alert('Places error', JSON.stringify(err?.response?.data ?? err.message));
+        Alert.alert(
+            'Places error',
+            JSON.stringify(err?.response?.data ?? err.message)
+        );
+        } finally {
         setLoading(false);
         }
     })();

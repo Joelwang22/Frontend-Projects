@@ -2,7 +2,12 @@ import axios from 'axios';
 import Constants from 'expo-constants';
 import { Restaurant } from '../types/restaurant';
 
-const key = Constants.expoConfig?.extra?.placesApiKey;
+const key = process.env.EXPO_PUBLIC_PLACES_API_KEY;
+
+if (!key) {
+  throw new Error('Google Places key missing – check .env (EXPO_PUBLIC_)');
+}
+
 const ENDPOINT = 'https://places.googleapis.com/v1/places:searchNearby';
 
 const FIELD_MASK =
