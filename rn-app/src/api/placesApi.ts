@@ -1,5 +1,4 @@
 import axios from 'axios';
-import Constants from 'expo-constants';
 import { Restaurant } from '../types/restaurant';
 
 const key = process.env.EXPO_PUBLIC_PLACES_API_KEY;
@@ -28,22 +27,24 @@ export async function getNearbyRestaurants(
   lng: number,
   radius = 1500
 ): Promise<Restaurant[]> {
-  const { data } = await axios.post<NearbyResponse>(
-    `${ENDPOINT}?key=${key}`,
-    {
-      includedTypes: ['restaurant'],
-      maxResultCount: 20,
-      locationRestriction: {
-        circle: { center: { latitude: lat, longitude: lng }, radius },
-      },
+const { data } = await axios.post<NearbyResponse>(
+  `${ENDPOINT}?key=${key}`,
+  {
+    includedPrimaryTypes: ['restaurant'],
+    excludedPrimaryTypes: ['food_court', 'meal_takeaway', 'market'],
+    maxResultCount: 20,
+    locationRestriction: {
+      circle: { center: { latitude: lat, longitude: lng }, radius },
     },
-    {
-      headers: {
-        'Content-Type': 'application/json',
-        'X-Goog-FieldMask': FIELD_MASK,
-      },
-    }
-  );
+  },
+  {
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Goog-FieldMask':
+        FIELD_MASK + ',places.primaryType', 
+    },
+  }
+);
 
   return data.places.map((p) => ({
     id: p.id,
