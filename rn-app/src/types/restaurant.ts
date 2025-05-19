@@ -7,6 +7,10 @@ export interface Restaurant {
 }
   
 export type RootStackParamList = {
-    List: undefined;                             
-    Detail: { restaurant: Restaurant };           
+  List: undefined;
+  Detail: { restaurant: Restaurant };
+  PickLocation: {
+    initial?: { lat: number; lng: number };
+    onPick: (coords: { lat: number; lng: number }) => void;
+  };
 };
