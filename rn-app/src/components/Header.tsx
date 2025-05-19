@@ -26,7 +26,19 @@ export default function Header() {
           />
         }
       >
-        <Menu.Item onPress={() => navigation.navigate('List')} title="Home" />
+        <Menu.Item 
+          onPress={() => {
+            setMenuVisible(false);
+            navigation.navigate('List')} 
+          }
+          title="Home" />
+        <Menu.Item
+          onPress={() => {
+            setMenuVisible(false);
+            navigation.navigate('Saved');
+          }}
+          title="Saved Restaurants"
+        />
         {/* add more items here */}
       </Menu>
 

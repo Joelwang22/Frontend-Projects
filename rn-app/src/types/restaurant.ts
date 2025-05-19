@@ -13,4 +13,5 @@ export type RootStackParamList = {
     initial?: { lat: number; lng: number };
     onPick: (coords: { lat: number; lng: number }) => void;
   };
+  Saved: undefined;
 };
