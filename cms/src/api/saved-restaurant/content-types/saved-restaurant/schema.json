@@ -8,11 +8,14 @@
     "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": true,
+    "timestamps": true,
+    "softDelete": false
   },
   "attributes": {
     "restaurant_id": {
-      "type": "string"
+      "type": "string",
+      "unique": true
     },
     "name": {
       "type": "string"

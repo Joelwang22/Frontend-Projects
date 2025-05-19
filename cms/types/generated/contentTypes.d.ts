@@ -384,6 +384,8 @@ export interface ApiSavedRestaurantSavedRestaurant
   };
   options: {
     draftAndPublish: true;
+    softDelete: false;
+    timestamps: true;
   };
   attributes: {
     createdAt: Schema.Attribute.DateTime;
@@ -400,7 +402,7 @@ export interface ApiSavedRestaurantSavedRestaurant
     name: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     rating: Schema.Attribute.Decimal;
-    restaurant_id: Schema.Attribute.String;
+    restaurant_id: Schema.Attribute.String & Schema.Attribute.Unique;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;

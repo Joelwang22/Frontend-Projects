@@ -60,7 +60,6 @@ export default function PickLocationScreen({ navigation, route }: Props) {
 
   return (
     <View style={styles.container}>
-      {/* use the alias <Map …> so TS knows the extra prop */}
       <Map
         style={styles.map}
         region={region}

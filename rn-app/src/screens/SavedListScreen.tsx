@@ -58,6 +58,9 @@ export default function SavedListScreen({ navigation }: Props) {
               },
             })
           }
+          onToggleSave={() =>
+            setList((prev) => prev.filter((r) => r.id !== item.id))
+          }
         />
       )}
     />
