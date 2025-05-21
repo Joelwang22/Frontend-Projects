@@ -4,6 +4,7 @@ import { useNavigation } from '@react-navigation/native';
 import { createNativeStackNavigator, NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../types/restaurant';
 import { useLocation } from '../context/LocationContext';
+import { colors } from '../syles/colors';
 
 const Stack = createNativeStackNavigator<RootStackParamList>(); 
 
@@ -14,7 +15,7 @@ export default function Header() {
   const { coords, setCoords } = useLocation();
 
   return (
-    <Appbar.Header mode="small">
+    <Appbar.Header mode="small" style={{ backgroundColor: colors.icons }}>
       <Menu
         visible={menuVisible}
         onDismiss={() => setMenuVisible(false)}

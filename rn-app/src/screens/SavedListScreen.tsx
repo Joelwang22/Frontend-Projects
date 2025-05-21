@@ -4,6 +4,7 @@ import { getSaved, SavedRecord } from '../api/savedApi';
 import RestaurantCard from '../components/RestaurantCard';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../types/restaurant';
+import { colors } from '../syles/colors';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Saved'>;
 
@@ -68,6 +69,6 @@ export default function SavedListScreen({ navigation }: Props) {
 }
 
 const styles = StyleSheet.create({
-  loader: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  list: { paddingVertical: 12 },
+  loader: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.background},
+  list: { flexGrow:1, padding: 12, backgroundColor: colors.background },
 });

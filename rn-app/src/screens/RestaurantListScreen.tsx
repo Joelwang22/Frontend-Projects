@@ -6,6 +6,7 @@ import RestaurantCard from '../components/RestaurantCard';
 import { Restaurant } from '../types/restaurant';
 import { getNearbyRestaurants } from '../api/placesApi';
 import { useLocation } from '../context/LocationContext';
+import { colors } from '../syles/colors';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'List'>;
 
@@ -58,6 +59,7 @@ export default function RestaurantListScreen({ navigation }: Props) {
             keyExtractor={(r) => r.id}
             getItemLayout={(_, i) => ({ length: 92, offset: 92 * i, index: i })}
             contentContainerStyle={{ padding: 12 }}
+            style={{ flexGrow:1, backgroundColor: colors.background }}
         />
     );
 }
